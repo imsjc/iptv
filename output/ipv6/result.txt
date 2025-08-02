@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-02 20:26:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-08-03 06:16:37,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -570,7 +570,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
-浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江新闻,http://zwebl02.cztv.com/live/channel071080P.m3u8?auth_key=2524708799-0-0-e3b50ca59d2c0883d5386d8bc4cdefbc
 浙江新闻,http://zhfivel02.cztv.com/channel07/1080p.m3u8?auth_key=2524708799-0-0-4af48ba83e791a300595dd0b2bb30e6e
@@ -615,7 +614,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
 浙江经济,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
-浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 之江纪录,http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
@@ -726,7 +724,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
-松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 松阳新闻综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8

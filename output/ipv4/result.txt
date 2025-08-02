@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2025-08-02 20:26:04,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+2025-08-03 06:16:37,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
 ☘️浙江频道,#genre#
-洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed\r\n
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed\r\n
+浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
